@@ -1,2 +1,2 @@
-数据结构课程设计
-the first day
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
